@@ -78,5 +78,3 @@ Alia Arif
 Aspiring Data Analyst | SQL | Excel | Power BI
 
 
-Alia Arif
-Aspiring Data Analyst | SQL | Excel | Power BI
