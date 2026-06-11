@@ -1,4 +1,4 @@
-# Festive-Sales-Impact-Analysis
+# Festive Sales Impact Analysis
 
 ## Project Overview
 
@@ -13,49 +13,70 @@ This project analyzes retail sales data to measure the impact of festive seasons
 
 ## Dataset
 
-* 10,000+ retail sales records.
-* Fields include Order Date, Product Category, Sales Amount, Quantity Sold, and Region.
+* 12,000 retail sales transactions.
+* Multiple product categories including Electronics, Clothing, Home Decor, Beauty, and Grocery.
+* Sales records across multiple Indian states and cities.
+* Festive periods include Diwali, Holi, Eid, and Christmas.
 
  ## 📸 Dashboard Preview
 <img width="871" height="495" alt="S-Dashboard" src="https://github.com/user-attachments/assets/118c9fb3-bc3b-443e-8f55-fd18158b57d6" />
-
 
 ## Tools Used
 
 * SQL
 * Microsoft Excel
 * Pivot Tables
-* Dynamic Charts
+* Pivot Charts
 * Slicers
+* Conditional Formatting
+
+## SQL Concepts Demonstrated
+
+* CASE WHEN
+* GROUP BY
+* SUM, AVG, COUNT Aggregations
+* CTEs (Common Table Expressions)
+* Revenue Trend Analysis
+* Category Performance Analysis
+* Seasonal Sales Comparison
 
 ## Key Analysis
 
-* Used CASE WHEN statements to classify festive and non-festive periods.
-* Applied GROUP BY and aggregate functions for revenue analysis.
-* Compared category-wise sales performance.
-* Evaluated seasonal demand trends.
+* Classified festive and non-festive transactions using SQL logic.
+* Compared category-wise revenue performance.
+* Evaluated state-wise and city-wise sales trends.
+* Analyzed seasonal demand patterns across product categories.
+* Built an interactive dashboard for business reporting.
 
 ## Key Findings
 
-* Festive seasons generated approximately 25% higher revenue compared to non-festive periods.
-* Three product categories showed significant seasonal demand spikes.
-* Interactive dashboard reduced manual reporting efforts by approximately 40%.
+* Festive periods generated significantly higher revenue than non-festive periods.
+* Electronics, Clothing, and Home Decor emerged as top-performing categories.
+* Major metropolitan cities contributed the highest share of revenue.
+* Interactive dashboards improved reporting efficiency and decision-making.
 
 ## Business Recommendations
 
-1. Increase inventory for high-demand categories before festive periods.
-2. Launch targeted promotional campaigns during peak seasons.
-3. Use historical sales trends for demand forecasting.
-4. Allocate marketing budgets toward top-performing categories.
+* Increase inventory for high-demand categories before festive seasons.
+* Launch targeted marketing campaigns during peak shopping periods.
+* Use historical sales trends for demand forecasting.
+* Allocate marketing budgets toward top-performing categories and regions.
 
 ## Dashboard Features
 
 * Revenue Comparison
 * Category-wise Performance
 * Seasonal Sales Trends
+* State-wise Analysis
 * Interactive Filters and Slicers
+* KPI Cards
 
 ## Author
+
+Alia Arif
+
+Aspiring Data Analyst | SQL | Excel | Power BI
+
 
 Alia Arif
 Aspiring Data Analyst | SQL | Excel | Power BI
