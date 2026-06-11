@@ -16,6 +16,10 @@ This project analyzes retail sales data to measure the impact of festive seasons
 * 10,000+ retail sales records.
 * Fields include Order Date, Product Category, Sales Amount, Quantity Sold, and Region.
 
+ ## 📸 Dashboard Preview
+<img width="1601" height="746" alt="<img width="871" height="495" alt="S-Dashboard" src="https://github.com/user-attachments/assets/118c9fb3-bc3b-443e-8f55-fd18158b57d6" />
+" />
+
 ## Tools Used
 
 * SQL
